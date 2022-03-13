@@ -72,3 +72,7 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Assets/3d/earth-globe.zip
+Content/Art/HighGeo/G-earth-screensHD_u1_v1.uasset
+Content/Art/HighGeo/G-earth-screensHD_u1_v2.uasset
+Content/Art/HighGeo/G-earth-screensHD_u2_v1.uasset
